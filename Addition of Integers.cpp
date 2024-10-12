@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Recursion to find Sum of given Integers
+//Aim:Implementation of Recursion to find Sum of given Integers
 
 #include<iostream>
 using namespace std;
