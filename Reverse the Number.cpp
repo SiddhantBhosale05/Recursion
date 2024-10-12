@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Recursion to find Reverse of given Number
+//Aim:Implementation of Recursion to find Reverse of given Number
 
 #include <iostream>
 using namespace std;
